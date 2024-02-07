@@ -1,7 +1,7 @@
 # Chat-with-French-PDFs
 
 
-**Try the app here:** [PDF Analyzer on Streamlit Cloud]([https://chat-with-french-pdfs-nn3whfranqyv4zpyjhucgz.streamlit.app/])
+**Try the app here:** [PDF Analyzer on Streamlit Cloud](https://chat-with-french-pdfs-nn3whfranqyv4zpyjhucgz.streamlit.app/
 
 # PDF Analyzer App
 
