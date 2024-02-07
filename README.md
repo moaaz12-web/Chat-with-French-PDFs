@@ -1,7 +1,7 @@
-![Logo](img/logo1.png "Logo")
+# Chat-with-French-PDFs
 
 
-**Try the app here:** [PDF Analyzer on Streamlit Cloud](https://
+**Try the app here:** [PDF Analyzer on Streamlit Cloud]([https://](https://chat-with-french-pdfs-nn3whfranqyv4zpyjhucgz.streamlit.app/)
 
 # PDF Analyzer App
 
