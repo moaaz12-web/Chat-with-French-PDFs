@@ -1,11 +1,6 @@
 # Chat-with-French-PDFs
 
-
-**Try the app here:** (https://chat-with-french-pdfs-nn3whfranqyv4zpyjhucgz.streamlit.app/)
-
-# PDF Analyzer App
-
-PDF Analyzer App is a question-answering application that allows users to upload PDFs and ask questions related to the content of those documents, tailored for French language,
+It is a question-answering application that allows users to upload PDFs and ask questions related to the content of those documents, tailored for the French language,
 
 
 ## Installation
